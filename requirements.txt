@@ -1,0 +1,7 @@
+Bibliotecas necessárias:
+
+-tkinter (para geração de interfaces gráficas, import tkinter as tk)
+
+Módulo interno do Tkinter:
+
+-messagebox (abrir janelas de diálogo prontas, from tkinter import messagebox)
